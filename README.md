@@ -1,18 +1,17 @@
 # BIOINFORMATICA (gbi6g012022I)
 ## DATOS PERSONALES
-- Chávez Daniela
+- Chávez Carranza Daniela Alejandra
 - Edad: 23
 - Ciudad: La Maná
 - Carrera: Ingeniería en Biotecnología
 
 ## CARACTERÍSTICAS DEL EQUIPO
-- Nombre del dispositivo	LAB-C-E6
-- Nombre completo del dispositivo	LAB-C-E6.ikiam.edu.ec
-- Procesador	Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz   3.40 GHz
-- RAM instalada	8.00 GB
-- Identificador de dispositivo	9E125FB1-4824-402E-A336-CEFD1DD49C22
-- Id. del producto	00330-80000-00000-AA579
-- Tipo de sistema	Sistema operativo de 64 bits, procesador basado en x64
+- Nombre del dispositivo	LAPTOP-86VEURON
+- Procesador	AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx     2.10 GHz
+- RAM instalada	8,00 GB (6,94 GB utilizable)
+- Id. del dispositivo	7EFB1258-A4D5-484E-A8E5-6DA244699DDB
+- Id. del producto	00342-41414-38994-AAOEM
+- Tipo de sistema	Sistema operativo de 64 bits, procesador x64
 - Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
 
 ## PROGRAMAS UTILIZADOS
