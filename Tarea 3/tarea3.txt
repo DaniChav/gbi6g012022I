@@ -1,0 +1,5 @@
+Chávez, Daniela
+Ńúmero de filas
+97 n1.txt
+Número de columnas
+80
