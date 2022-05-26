@@ -1,14 +1,6 @@
-#!/bin/bash
-echo "Chávez, Daniela"
+#! /bin/bash
 
-echo "Número de filas"
-for f in ../Saavedra2013/*.txt;
-do
-	cat $f 	|wc -l;
-done
+echo "Escriba un script que imprima los números de las filas y las columnas para cada red" > netsize_all.txt
+echo "______________________________________________" >> netsize_all.txt
 
-echo "Número de columnas"
-for f in ../Saavedra2013/*.txt;
-do
-	head -n 1 $f | tr -d " " | tr -d "\n" | wc  -c;
-done
+for file in $(ls *.txt); do wc -l $file >> netsize_all.txt; head -n1 $file|grep -o " "|wc -l >> netsize_all.txt; done
