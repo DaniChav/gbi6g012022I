@@ -1,5 +1,0 @@
-Daniela Chávez, Análisis de datos simple
-Filas:
-97 n1.txt
-Columnas:
-80
