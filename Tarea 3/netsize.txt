@@ -1,0 +1,8 @@
+Escriba un script que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea. Tu script debería regresar.
+_________________________________________________________
+Daniela Chávez, Análisis de datos simple
+Archivo: n1.txt
+N° de filas:
+97 n1.txt
+N° de columnas:
+80
