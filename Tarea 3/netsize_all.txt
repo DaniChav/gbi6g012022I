@@ -1,5 +1,6 @@
-Escriba un script que imprima los números de las filas y las columnas para cada red
-______________________________________________
+Escriba un script que imprima los números de las filas y las columnas para cada red.
+__________________________________
+Daniela Chávez. Análisis de datos con bucle FOR
 97 n1.txt
 80
 14 n10.txt
@@ -118,5 +119,5 @@ ______________________________________________
 33
 12 n9.txt
 22
-120 netsize_all.txt
+121 netsize_all.txt
 15
